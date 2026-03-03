@@ -1,9 +1,0 @@
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\bin\Debug\Deticio_Act3.exe.config
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\bin\Debug\Deticio_Act3.exe
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\bin\Debug\Deticio_Act3.pdb
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\obj\Debug\Deticio_Act3.csproj.AssemblyReference.cache
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\obj\Debug\Deticio_Act3.EnrollmentForm.resources
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\obj\Debug\Deticio_Act3.csproj.GenerateResource.cache
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\obj\Debug\Deticio_Act3.csproj.CoreCompileInputs.cache
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\obj\Debug\Deticio_Act3.exe
-\\vmware-host\Shared Folders\Downloads\Escasinas_Act3-main 2\Deticio_Act3\obj\Debug\Deticio_Act3.pdb
